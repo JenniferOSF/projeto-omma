@@ -3,7 +3,7 @@
 
 Desenvolvimento de um site institucional como exercício proposto pela Gama Academy. No desenvolvimento foram utilizados Git Flow e commits semânticos.
 
-Link para acessar o projeto: https://github.com/JenniferOSF/projeto-omma.git
+Link para acessar o projeto: [https://github.com/JenniferOSF/projeto-omma.git](https://projeto-omma.vercel.app/)
 
 
 # 📁 Objetivos de estudo
