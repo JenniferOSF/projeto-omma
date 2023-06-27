@@ -14,7 +14,7 @@ Site institucional desenvolvido durante o programa XP da Gama Academy.
 
 Desenvolvimento de um site institucional como exercício proposto pela Gama Academy. No desenvolvimento foram utilizados Git Flow e commits semânticos.
 
-Link para acessar o projeto: https://jenniferosf.github.io/Projeto-Omma/
+Link para acessar o projeto: https://github.com/JenniferOSF/projeto-omma.git
 
 
 # 📁 Objetivos de estudo
