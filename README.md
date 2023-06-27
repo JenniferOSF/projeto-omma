@@ -3,8 +3,7 @@
 
 Desenvolvimento de um site institucional como exercício proposto pela Gama Academy. 
 
-Link para acessar o projeto: [https://github.com/JenniferOSF/projeto-omma.git](https://projeto-omma.vercel.app/)
-
+Link para acessar o projeto: https://projeto-omma.vercel.app/
 
 # 📁 Objetivos de estudo
 - Boas práticas.
