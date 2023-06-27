@@ -1,14 +1,3 @@
-# Omma - Receitas com Afeto
-
-Site institucional desenvolvido durante o programa XP da Gama Academy.
-
-## Stacks
-
-- HTML;
-- CSS;
-- Semântica.
-
-
 <h1 align="center"> Omma - Receitas com Afeto </h1>
 
 
