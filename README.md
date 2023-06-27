@@ -1,7 +1,7 @@
 <h1 align="center"> Omma - Receitas com Afeto </h1>
 
 
-Desenvolvimento de um site institucional como exercício proposto pela Gama Academy. No desenvolvimento foram utilizados Git Flow e commits semânticos.
+Desenvolvimento de um site institucional como exercício proposto pela Gama Academy. 
 
 Link para acessar o projeto: [https://github.com/JenniferOSF/projeto-omma.git](https://projeto-omma.vercel.app/)
 
